@@ -1,0 +1,17 @@
+.font-highlight {
+    background-color: lightpink;
+    font-family: Verdana, "DeJavu Sans", sans-serif;
+}
+.cool-class {
+    font-size: 24px;
+}
+
+#id {
+    color: blue;
+    font-size: 36px;
+}
+#another-id {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
